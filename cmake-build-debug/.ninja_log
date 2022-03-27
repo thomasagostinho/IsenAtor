@@ -1,0 +1,19 @@
+# ninja log v5
+5	314	6700955358441230	CMakeFiles/untitled.dir/main.c.obj	ae7e8cd773a28c0
+316	736	6700955362668981	untitled.exe	89be20a3dc62fc81
+5	296	6700953558832131	CMakeFiles/untitled.dir/fonctions.c.obj	c6ffce9d726d0899
+4	372	6700957258864623	CMakeFiles/untitled.dir/main.c.obj	7db72dccf1139311
+30	392	6700957259151502	CMakeFiles/untitled.dir/fonctions.c.obj	aa9da05345e5fa01
+392	758	6700957262739686	untitled.exe	89be20a3dc62fc81
+6	163	6700963411928400	CMakeFiles/untitled.dir/main.c.obj	7db72dccf1139311
+29	168	6700963411978283	CMakeFiles/untitled.dir/fonctions.c.obj	aa9da05345e5fa01
+168	347	6700963413714075	untitled.exe	89be20a3dc62fc81
+2	119	6700964864234916	CMakeFiles/untitled.dir/main.c.obj	7db72dccf1139311
+120	267	6700964865677886	untitled.exe	89be20a3dc62fc81
+4	381	6700966245037789	CMakeFiles/untitled.dir/main.c.obj	7db72dccf1139311
+3	123	6700967332186739	CMakeFiles/untitled.dir/main.c.obj	7db72dccf1139311
+18	144	6700967332389161	CMakeFiles/untitled.dir/fonctions.c.obj	aa9da05345e5fa01
+144	292	6700967333842392	untitled.exe	89be20a3dc62fc81
+2	146	6700967759430892	CMakeFiles/untitled.dir/main.c.obj	7db72dccf1139311
+20	159	6700967759640862	CMakeFiles/untitled.dir/fonctions.c.obj	aa9da05345e5fa01
+160	469	6700967762633234	untitled.exe	89be20a3dc62fc81
