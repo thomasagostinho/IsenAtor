@@ -10,6 +10,15 @@ typedef struct annuaire
 
 } annuaire ;
 
+typedef struct voiture
+{
+    char nom [32] ;
+
+
+} voiture ;
+
+
+
 
 annuaire* CreerEleve (void);
 annuaire* AjouterEleve ( annuaire *R, annuaire* N);
